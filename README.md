@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 I am Carlos! I live in Medellin (Colombia) and I went from Chemical Engineer to teaching and web developer, deciding to mix chemistry, teaching and programming. I know what you are thinking: it could be an exciting career!
+😄 I am Carlos! I live in Medellin (Colombia) and I went from Chemical Engineer to Teaching and Web Developer, deciding to mix chemistry, teaching and programming. I know what you are thinking: it could be an exciting career!
 
 This is my GitHub profile where I share my projects so you can take a look to my code and to what I've been creating.
 
