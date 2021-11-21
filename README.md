@@ -23,7 +23,7 @@ This is my GitHub profile where I share my projects so you can take a look to my
 
 ⭐ Frontend: HTML5 | CSS3 | Javascript | Angular | React | Jest | SASS | BEM | Typescript
 
-⭐ Backend: Python5 | Django | Flask | NodeJS | ExpressJS | MongoDB | Mongoose | PostMan | API Restful
+⭐ Backend: Python3 | Django | Flask | NodeJS | ExpressJS | MongoDB | Mongoose | PostMan | API Restful
 
 ⭐ Other technologies: Git | GitHub | Trello | Asana | Slack | Excalidraw | Figma 
 
