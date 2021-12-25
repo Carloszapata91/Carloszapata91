@@ -25,7 +25,7 @@ This is my GitHub profile where I share my projects so you can take a look to my
 
 ⭐ Backend: Python3 | Django | Flask | NodeJS | ExpressJS | MongoDB | Mongoose | PostMan | API Restful | MySQL
 
-🌱 I’m currently learning Java, Spring Boot and Agular
+🌱 I’m currently learning Java, Spring Boot and Angular
 
 ⭐ Other technologies: Git | GitHub | Trello | Asana | Slack | Excalidraw | Figma 
 
