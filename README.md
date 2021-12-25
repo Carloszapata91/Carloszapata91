@@ -21,7 +21,7 @@ This is my GitHub profile where I share my projects, so you can take a look to m
 
 💻🖱️... Some of the technologies I use: 
 
-⭐ Frontend: HTML5 | CSS3 | Javascript | Angular | React 
+⭐ Frontend: HTML5 | CSS3 | Javascript | Angular | React | Bootstrap
 
 ⭐ Backend: Python3 | Django | Flask | NodeJS | ExpressJS | MongoDB | Mongoose | PostMan | API Restful | MySQL
 
